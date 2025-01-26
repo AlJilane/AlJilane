@@ -1,4 +1,13 @@
-# ● Hi there, I'm @AlJilane - Sarmad Khader 👋 ●<br><br> ● About Me 😎 <br>- **Interests:** Data analysis, Python, Excel, and anything that improves my data skills 📊👨🏻‍💻<br>- **Current Learning Focus:** Data analysis 📈 <br>- **Pronouns:** He/Him 🧔🏻 <br>- **Fun Fact:** I am a hardcore gamer 🖥️🎮 more than a data analyst 💻<br><br>● 👇🏻 Feel free to check out my projects and connect with me! 👇🏻
+# ● Hi there, I'm @AlJilane - Sarmad Khader 👋 
+
+### ● About Me 😎  
+- **Interests:** Data analysis, Python, Excel, and anything that improves my data skills 📊👨🏻‍💻  
+- **Current Learning Focus:** Data analysis 📈  
+- **Pronouns:** He/Him 🧔🏻  
+- **Fun Fact:** I am a hardcore gamer 🖥️🎮 more than a data analyst 💻  
+
+### ● 👇🏻 Feel free to check out my projects and connect with me! 👇🏻  
+
 
 
 ## 🌐 Socials:
